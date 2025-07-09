@@ -2,6 +2,10 @@
 
 This is a simple terminal application written in TypeScript that renders a spinning 3D donut using ANSI escape codes.
 
+## Screenshots
+
+![Donut Screenshot](img/screenshot.gif)
+
 ## Project Structure
 
 - `src/donut/`: Contains the core logic for the donut animation.
